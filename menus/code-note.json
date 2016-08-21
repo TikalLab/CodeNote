@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle code-note",
+        "command": "code-note:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "code-note",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "code-note:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
