@@ -18,6 +18,8 @@ class MySelectListView extends SelectListView
   #  console.log("#{item} was selected")
   #  this.cancel();
   @maister.boardSelected(item);
+  @cancel();
 
  cancelled: ->
    console.log("This view was cancelled")
+   @panel?.destroy()
