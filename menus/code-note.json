@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle code-note",
+        "label": "Post to Trello",
         "command": "code-note:toggle"
       }
     ]
@@ -15,7 +15,7 @@
           "label": "code-note",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Post to Trello",
               "command": "code-note:toggle"
             }
           ]
