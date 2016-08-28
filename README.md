@@ -17,6 +17,9 @@ apm install code-note
 3. Paste your key an token into the appropriate boxes.
 4. You're good to go
 
-## Activate
-- `Packages > code-note > trello`
-- `ctrl-shift-alt-T`
+## Usage
+1. Select the text you want to add as a trello task (usually a comment)
+2. Then either:
+  - `Packages > code-note > trello`
+  - `ctrl-shift-alt-T`
+3. Select the board and card into which you want the task be added and you're done.
