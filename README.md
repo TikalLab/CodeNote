@@ -2,7 +2,7 @@
 
 Quickly add Trello tasks directly from your code.
 
-![A screenshot of your package](https://cloud.githubusercontent.com/assets/3884266/11539982/17a1b71c-98f8-11e5-95ba-1a13639b1190.png)
+![A screenshot of your package](https://github.com/TikalLab/CodeNote/blob/master/code-note-demo.png?raw=true)
 
 ## Installation
 
