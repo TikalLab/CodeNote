@@ -1,14 +1,14 @@
 {
   "name": "code-note",
   "main": "./lib/code-note",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Quickly post to trello directly from atom",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "code-note:toggle"
   },
-  "repository": "https://github.com/atom/code-note",
+  "repository": "https://github.com/TikalLab/CodeNote",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
