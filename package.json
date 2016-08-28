@@ -1,10 +1,9 @@
 {
   "name": "code-note",
   "main": "./lib/code-note",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Quickly post to trello directly from atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "code-note:toggle"
   },
